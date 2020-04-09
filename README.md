@@ -3,7 +3,7 @@
 Launch the project with your Youtube API Key :
 
 ```
-process.env.YOUTUBE_API_KEY
+process.env.VUE_APP_YOUTUBE_API_KEY
 ```
 
 ## Project setup

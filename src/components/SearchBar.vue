@@ -1,5 +1,5 @@
 <template>
-  <div><input @input="onInput" /></div>
+  <div><input @input="onInput" placeholder="Enter your search here" /></div>
 </template>
 
 <script>
